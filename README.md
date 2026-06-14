@@ -5,7 +5,7 @@
 
 ## 🔗 Links
 
-- 🌐 **Live Demo:** [harjith2004.github.io/smartcivic](https://harjith2004.github.io/smartcivic)
+- 🌐 **Live Demo:** [harjith2004.github.io/smartcivic](https://smart-civic-project.vercel.app/submit)
 - 💻 **GitHub:** [github.com/Harjith2004/smartcivic](https://github.com/Harjith2004/smartcivic)
 
 ---
