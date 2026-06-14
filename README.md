@@ -2,7 +2,6 @@
 
 > An AI-powered civic grievance management system using NLP (TF-IDF + Naïve Bayes), React.js dashboard, real-time analytics, and WhatsApp/Email notifications for automated complaint routing to municipal departments.
 
-![SmartCivic Preview](screenshots/dashboard.png)
 
 ## 🔗 Links
 
@@ -91,36 +90,6 @@ smartcivic/
 └── package.json
 ```
 
----
-
-## ⚙️ Installation & Setup
-
-### Prerequisites
-- Node.js 18+
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/Harjith2004/smartcivic.git
-cd smartcivic
-```
-
-### 2. Install dependencies
-```bash
-npm install
-```
-
-### 3. Run the app
-```bash
-npm start
-# Opens http://localhost:3000
-```
-
-### 4. Build for production
-```bash
-npm run build
-```
-
----
 
 ## 📊 Dashboard Features
 
@@ -133,41 +102,6 @@ npm run build
 | Horizontal Bar | Complaints by status |
 
 ---
-
-## 📱 WhatsApp Setup (Twilio)
-
-1. Sign up at [twilio.com](https://twilio.com) → free account
-2. Console → **Messaging** → **Try WhatsApp** → activate sandbox
-3. Add your credentials in **Settings & Notifications** page
-
----
-
-## 📧 Gmail Email Setup
-
-1. Google Account → **Security** → enable 2-Step Verification
-2. **App Passwords** → Mail → Other → copy 16-char password
-3. Add credentials in **Settings & Notifications** page
-
----
-
-## 🚀 Deploy to GitHub Pages
-
-```bash
-npm install -g gh-pages
-npm run build
-gh-pages -d build
-```
-
----
-
-## 📸 Screenshots
-
-| Screen | Description |
-|--------|-------------|
-| ![Submit](screenshots/submit.png) | Complaint submission with AI analysis |
-| ![Dashboard](screenshots/dashboard.png) | Analytics dashboard with charts |
-| ![Log](screenshots/log.png) | Complaint log with filters |
-| ![Settings](screenshots/settings.png) | Notification settings |
 
 ---
 
